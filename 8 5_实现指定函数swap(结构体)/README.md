@@ -1,8 +1,8 @@
 # 8 5_实现指定函数swap(结构体)
 实现swap方法
 struct Person{
-   int age;
-  int height;
+ int age;
+ int height;
 }
 void swap(Person * array,int n);
 输入结构体数组和数组元素个数。
